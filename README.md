@@ -20,3 +20,5 @@ This is a boilerplate Next.js project with `next-i18next` set up for internation
 
    ```bash
    git clone https://github.com/your-username/your-next-i18next-project.git
+
+aegaeg
