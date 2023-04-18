@@ -2,14 +2,6 @@
 
 This is a boilerplate Next.js project with `next-i18next` set up for internationalization (i18n) support.
 
-## Features
-
-- Server-side rendering (SSR) with Next.js
-- Internationalization (i18n) support with `next-i18next`
-- Automatic language detection based on user's browser settings
-- Dynamic language switching
-- Example usage of `next-i18next` with server-side rendering (SSR) and static site generation (SSG)
-
 ## Prerequisites
 
 - Node.js and pnpm installed on your machine
