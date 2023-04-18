@@ -15,7 +15,7 @@ This is a boilerplate Next.js project with `next-i18next` set up for internation
 
 2. Clone this repository:
    ```bash
-   npm install
+   pnpm install
 3. Change lang0 and lang1
 
 
