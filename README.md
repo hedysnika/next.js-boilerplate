@@ -12,7 +12,7 @@ This is a boilerplate Next.js project with `next-i18next` set up for internation
 
 ## Prerequisites
 
-- Node.js and npm installed on your machine
+- Node.js and pnpm installed on your machine
 
 ## Getting Started
 
@@ -22,3 +22,14 @@ This is a boilerplate Next.js project with `next-i18next` set up for internation
    git clone https://github.com/your-username/your-next-i18next-project.git
 
 aegaeg
+
+2. Clone this repository:
+   ```bash
+   npm install
+3. Change lang0 and lang1
+
+
+4. Start the development server:
+      ```bash
+   pnpm run dev
+
