@@ -12,6 +12,7 @@ specifiers:
   aws-sdk: ^2.1152.0
   constructs: ^10.1.36
   i18next: ^22.4.14
+  lucide-react: 0.105.0-alpha.4
   next: 13.3.0
   next-i18next: ^13.2.2
   postcss: 8.4.22
@@ -31,9 +32,9 @@ dependencies:
   autoprefixer: 10.4.14_postcss@8.4.22
   aws-cdk-lib: 2.27.0_constructs@10.2.43
   i18next: 22.4.14
+  lucide-react: 0.105.0-alpha.4_react@18.2.0
   next: 13.3.0_biqbaboplfbrettd7655fr4n2y
   next-i18next: 13.2.2_kcmpp3m6uygwzru7fyneufymmu
-  postcss: 8.4.22
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
   react-i18next: 12.2.0_57ubdvajp6562okxygabugvlve
@@ -44,6 +45,7 @@ devDependencies:
   aws-cdk: 2.27.0
   aws-sdk: 2.1390.0
   constructs: 10.2.43
+  postcss: 8.4.22
   prisma: 4.15.0
   source-map-support: 0.5.21
   tailwindcss: 3.3.1_postcss@8.4.22
@@ -797,6 +799,14 @@ packages:
     engines: {node: '>=10'}
     dependencies:
       yallist: 4.0.0
+    dev: false
+
+  /lucide-react/0.105.0-alpha.4_react@18.2.0:
+    resolution: {integrity: sha512-QclWOzKYj7sDW33jTQK4enmxL1LmI2SHFqEEP56EWhvs4mmlbbFe6ALYcdcdGysNISNovEbH5WBHg8tN5DLn0w==}
+    peerDependencies:
+      react: ^16.5.1 || ^17.0.0 || ^18.0.0
+    dependencies:
+      react: 18.2.0
     dev: false
 
   /merge2/1.4.1:
