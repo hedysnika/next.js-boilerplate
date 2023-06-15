@@ -1,6 +1,6 @@
 # Next.js Project with next-i18next
 
-This is a boilerplate Next.js project with `next-i18next` set up for internationalization (i18n) support.
+This is a boilerplate Next.js project
 
 ## Prerequisites
 
